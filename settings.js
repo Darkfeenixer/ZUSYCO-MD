@@ -16,15 +16,15 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94766867884",
-  SUDO_NUMBERS : "94766867884,94766867884",
+  OWNER_NUMBER: "94722807735",
+  SUDO_NUMBERS : "94722807735,94722807735",
   OWNER_NAME: "『 𝙼𝚁 𝙵𝙴𝙴𝙽𝙸𝚇 』",
   BOT_NAME : "F E E N I X",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
-    GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
+    ALIVE: 'Hi i am alive now,',
+    WELCOME: 'Wellcome to the we are gruop',
+    GOODBYE: 'GOOD bye BRO'
   },
   STOP_SEND : {
         WELCOME_MESSAGE : false,
